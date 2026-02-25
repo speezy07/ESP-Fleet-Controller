@@ -19,6 +19,5 @@ Control and monitor a fleet of ESP32/ESP8266 devices from a central controller.
 4. Upload to board
 
 ## Screenshots / Wiring
-(Add photos here later – drag images into README editor)
 
 MIT License
